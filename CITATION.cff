@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you quote or use this paper, please cite it as below."
+type: dataset
+title: "The Crypto Flywheel Whitepaper"
+abstract: "A rules-based digital asset allocation system designed to increase holdings and produce cashflow as markets rise and fall."
+version: "1.0"
+date-released: 2026-10-12
+doi: 10.5281/zenodo.23325576
+license: CC-BY-4.0
+url: "https://cryptoflywheel.com/whitepaper/"
+authors:
+  - family-names: Call
+    given-names: Jake
+    affiliation: Luminary One
+  - family-names: Jagelman
+    given-names: Joshua
+    affiliation: Luminary One
+  - family-names: Miunts
+    given-names: Konstantin
+    affiliation: Luminary One
+keywords:
+  - crypto flywheel
+  - crypto flywheel strategy
+  - crypto flywheel portfolio
+  - DeFi flywheel
+  - digital asset allocation
+preferred-citation:
+  type: report
+  title: "The Crypto Flywheel Whitepaper"
+  version: "1.0"
+  doi: 10.5281/zenodo.23325576
+  url: "https://doi.org/10.5281/zenodo.23325576"
+  year: 2026
+  month: 10
+  publisher:
+    name: Luminary One
+  authors:
+    - family-names: Call
+      given-names: Jake
+    - family-names: Jagelman
+      given-names: Joshua
+    - family-names: Miunts
+      given-names: Konstantin
